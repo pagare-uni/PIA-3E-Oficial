@@ -89,3 +89,27 @@ https://www.pythonparatodo.com/?p=236
 https://programacionpython80889555.wordpress.com/2019/12/10/obteniendo-informacion-del-sistema-y-del-hardware-en-python-con-psutil/
 
 https://recursospython.com/guias-y-manuales/psutil-utilidades-multiplataforma-para-procesos/
+
+
+sho:
+
+https://github.com/achillean/shodan-python
+
+https://shodan.readthedocs.io/en/latest/
+
+https://docs.python.org/3/library/ipaddress.html
+
+https://docs.python.org/3/howto/logging.html
+
+
+abu:
+
+https://www.abuseipdb.com/api
+
+https://docs.abuseipdb.com/?python#introduction
+
+https://github.com/meatyite/python-abuseipdb/blob/master/examples/example_check.py
+
+https://github.com/ndscplnt/AbuseIPDB-Checker
+
+https://blog.shaneoverton.com/abuse-ip-database-and-api-integration
