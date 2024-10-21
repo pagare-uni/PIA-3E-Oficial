@@ -4,12 +4,12 @@
 IMPORTANTE LEER:
 -Es necesario colocar una APIKey válida para los módulos de Shodan y de IP Abuse Database. Para generarlas basta con crear una cuenta en los respectivos sitios y acceder al apartado de API Key en el perfil que el usuario.
 
+LIBRERIAS QUE REQUIEREN SER INSTALADAS:
 
-
-
-
-
-
+colorama==0.4.6
+psutil==6.1.0
+requests==2.32.3
+shodan==1.31.0
 
 ------------------------------------------------------------
 Fuentes :
